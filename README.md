@@ -1,5 +1,4 @@
-# Hello, it's me
-## NeuroStartUp
+# NeuroStartUp
 
 1. ООО "Рога и копыта"
 2. Издательство "Чистый лист"
